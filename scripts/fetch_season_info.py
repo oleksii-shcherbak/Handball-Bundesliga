@@ -60,5 +60,6 @@ try:
     
     print(f"All season data saved to {output_path}")
 except Exception as e:
+    
     # Print any error that occurs during the request or file operation
     print(f"Error: {e}")

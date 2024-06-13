@@ -126,5 +126,6 @@ try:
     print(f"All season players data saved to {output_path}")
 except Exception as e:
     save_progress(all_season_players, output_path)
+    
     # Print any error that occurs during the request or file operation
     print(f"Error: {e}")
