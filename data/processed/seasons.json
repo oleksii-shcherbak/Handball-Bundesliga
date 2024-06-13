@@ -1,0 +1,29 @@
+{
+  "generated_at": "2024-06-13T12:39:06+00:00",
+  "seasons": [
+    {
+      "id": "sr:season:85804",
+      "name": "Bundesliga 21/22",
+      "start_date": "2021-09-08",
+      "end_date": "2022-06-12",
+      "year": "21/22",
+      "competition_id": "sr:competition:149"
+    },
+    {
+      "id": "sr:season:95685",
+      "name": "Bundesliga 22/23",
+      "start_date": "2022-09-01",
+      "end_date": "2023-06-12",
+      "year": "22/23",
+      "competition_id": "sr:competition:149"
+    },
+    {
+      "id": "sr:season:107903",
+      "name": "Bundesliga 23/24",
+      "start_date": "2023-08-24",
+      "end_date": "2024-06-02",
+      "year": "23/24",
+      "competition_id": "sr:competition:149"
+    }
+  ]
+}
