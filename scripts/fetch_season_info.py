@@ -47,6 +47,7 @@ try:
         
         # Pause between requests to avoid hitting rate limits
         time.sleep(1)
+        
         print(f"Season {season_id} completed.")
 
     # Define the path to save the fetched data
